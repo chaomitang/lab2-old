@@ -11,7 +11,7 @@
 <body>
 	<center>
 	Delete <s:property value="title"/>
-	Succeed!<br>
+	succeed!<br>
 	--------------------------------------------------------<br>
 	<br>
 	<input type="button" value="back to home page" onclick="location.href='hello.jsp'"/>

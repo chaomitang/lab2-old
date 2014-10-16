@@ -15,7 +15,7 @@
 	==========================================================<br>
 	<h4>The books of - <s:property value="name"/></h4>
 	==========================================================<br>
-	<table width="50%" border="1" cellpadding="2" cellspacing="0">
+	<table width="50%" border="1" cellpadding="1" cellspacing="0">
 	<%
 		out.println("<tr>");
 		out.println("<td>"+"Title"+"</td>");
