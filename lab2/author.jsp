@@ -15,7 +15,11 @@
 	==========================================================<br>
 	<h4>The books of - <s:property value="name"/></h4>
 	==========================================================<br>
-	<table width="70%" border="1" cellpadding="3" cellspacing="0">
+<<<<<<< HEAD
+	<table width="50%" border="1" cellpadding="3" cellspacing="0">
+=======
+	<table width="50%" border="1" cellpadding="3" cellspacing="0">
+>>>>>>> C4
 	<%
 		out.println("<tr>");
 		out.println("<td>"+"Title"+"</td>");

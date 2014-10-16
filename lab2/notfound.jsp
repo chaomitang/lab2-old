@@ -8,7 +8,11 @@
 </head>
 <body>
 	<center>
+<<<<<<< HEAD
    	<br>cannot found any book !<br>
+=======
+   	<br>cannot found any book !<br>
+>>>>>>> C4
    --------------------------------------------------------<br>
 	<br>
 	<input type="button" value="back to home page" onclick="location.href='hello.jsp'"/>

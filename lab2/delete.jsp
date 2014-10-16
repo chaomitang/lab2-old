@@ -10,8 +10,13 @@
 </head>
 <body>
 	<center>
+<<<<<<< HEAD
 	delete -- <s:property value="title"/>
-	success!<br>
+	succeed!<br>
+=======
+	Delete <s:property value="title"/>
+	succeed!<br>
+>>>>>>> C4
 	--------------------------------------------------------<br>
 	<br>
 	<input type="button" value="back to home page" onclick="location.href='hello.jsp'"/>
