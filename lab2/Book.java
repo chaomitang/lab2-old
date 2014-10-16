@@ -70,7 +70,7 @@ package books;
 			this.Publisher = Publisher;
 			this.PublishDate = PublishDate;
 			this.Price = Price;
-		}
+		}// get Book
 	}
 	
 
