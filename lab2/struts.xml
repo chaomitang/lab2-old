@@ -8,7 +8,7 @@
     <package name="default" namespace="/" extends="struts-default">
     
 
-    <action name="search" class="books.searchbook">
+    <action name="search" class="books.searchbook">   <!--action-->
         <result name = "Success">/author.jsp</result>
         <result name = "Error">/notfound.jsp</result>
      </action>
