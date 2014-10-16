@@ -23,7 +23,7 @@ public class searchbook {
 		Class.forName("com.mysql.jdbc.Driver").newInstance();
 		Connection con=java.sql.DriverManager.getConnection("jdbc:mysql://localhost:3306/BookDB","root","12345678");
 		
-		stmt = con.createStatement();
+		stmt = con.createStatement();//link MySQL
 		ResultSet rst;
 		
 		ResultSet rst2;
