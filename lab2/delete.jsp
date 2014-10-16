@@ -10,7 +10,7 @@
 </head>
 <body>
 	<center>
-	Delete <s:property value="title"/>
+	delete -- <s:property value="title"/>
 	success!<br>
 	--------------------------------------------------------<br>
 	<br>

@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center>
-   	<br>Sorry,cannot found any book !<br>
+   	<br>cannot found any book !<br>
    --------------------------------------------------------<br>
 	<br>
 	<input type="button" value="back to home page" onclick="location.href='hello.jsp'"/>
