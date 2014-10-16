@@ -21,7 +21,7 @@ public class deletebook {
 			Class.forName("com.mysql.jdbc.Driver").newInstance();
 			Connection conn=java.sql.DriverManager.getConnection("jdbc:mysql://localhost:3306/BookDB","root","12345678");
 			
-			stmt = conn.createStatement();
+			stmt = conn.createStatement(); // link MySQL
 			ResultSet rst;
 			
 			String sql ="select Title from Book where Book.Title='"+title+"'";
